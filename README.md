@@ -13,11 +13,6 @@ Click on the template of your choice, and create your valentine pages under 1 mi
 - With **custom images** of your choice. 👩‍❤️‍👨
 - With **40 Beautiful** templates to start from. 🤩
 
-
-# Demo
-Github Pages : https://saurabhnemade.github.io/will-you-be-my-valentine/
-
-
 # Description
 This is a fun project for valentines day to bring smile on face of your special person!!
 
